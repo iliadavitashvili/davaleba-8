@@ -1,8 +1,12 @@
+body{
+    overflow: hidden;
+}
+
 .star1 {
   background-clip: text;
   color: transparent;
   animation-name: flake1;
-  animation-duration: 3s;
+  animation-duration: 2s;
   font-size: 15rem;
   position: absolute;
   animation-timing-function: ease-in;
@@ -15,7 +19,7 @@
     background-clip: text;
     color: transparent;
     animation-name: flake2;
-    animation-duration: 3s;
+    animation-duration: 2s;
     font-size: 15rem;
     position: absolute;
     animation-timing-function: ease-in;
@@ -28,7 +32,7 @@
     background-clip: text;
     color: transparent;
     animation-name: flake3;
-    animation-duration: 3s;
+    animation-duration: 2s;
     font-size: 15rem;
     position: absolute;
     animation-timing-function: ease-out;
@@ -41,7 +45,7 @@
     background-clip: text;
     color: transparent;
     animation-name: flake4;
-    animation-duration: 3s;
+    animation-duration: 2s;
     font-size: 15rem;
     position: absolute;
     animation-timing-function: ease-ou;
@@ -53,7 +57,7 @@
     background-clip: text;
     color: transparent;
     animation-name: flake5;
-    animation-duration: 3s;
+    animation-duration: 2s;
     font-size: 15rem;
     position: absolute;
     animation-timing-function: ease-in;
@@ -65,7 +69,7 @@
     background-clip: text;
     color: transparent;
     animation-name: flake6;
-    animation-duration: 3s;
+    animation-duration: 2s;
     font-size: 15rem;
     position: absolute;
     animation-timing-function: ease-in;
@@ -77,7 +81,7 @@
     background-clip: text;
     color: transparent;
     animation-name: flake7;
-    animation-duration: 3s;
+    animation-duration: 2s;
     font-size: 15rem;
     position: absolute;
     animation-timing-function: ease-out;
@@ -89,7 +93,7 @@
     background-clip: text;
     color: transparent;
     animation-name: flake8;
-    animation-duration: 3s;
+    animation-duration: 2s;
     font-size: 15rem;
     position: absolute;
     animation-timing-function: ease-in;
@@ -101,7 +105,7 @@
     background-clip: text;
     color: transparent;
     animation-name: flake9;
-    animation-duration: 3s;
+    animation-duration: 2s;
     font-size: 15rem;
     position: absolute;
     animation-timing-function: ease-out;
@@ -114,7 +118,7 @@
     background-clip: text;
     color: transparent;
     animation-name: flake10;
-    animation-duration: 3s;
+    animation-duration: 2s;
     font-size: 15rem;
     position: absolute;
     animation-timing-function: ease-in;
@@ -129,7 +133,7 @@
     background-clip: text;
     color: transparent;
     animation-name: flake11;
-    animation-duration: 3s;
+    animation-duration: 2s;
     font-size: 15rem;
     position: absolute;
     animation-timing-function: ease-out;
@@ -141,7 +145,7 @@
     background-clip: text;
     color: transparent;
     animation-name: flake12;
-    animation-duration: 3s;
+    animation-duration: 2s;
     font-size: 15rem;
     position: absolute;
     animation-timing-function: ease-in;
@@ -153,7 +157,7 @@
     background-clip: text;
     color: transparent;
     animation-name: flake13;
-    animation-duration: 3s;
+    animation-duration: 2s;
     font-size: 15rem;
     position: absolute;
     animation-timing-function: ease-out;
@@ -165,7 +169,7 @@
     background-clip: text;
     color: transparent;
     animation-name: flake14;
-    animation-duration: 3s;
+    animation-duration: 2s;
     font-size: 15rem;
     position: absolute;
     animation-timing-function: ease-in;
@@ -177,7 +181,7 @@
     background-clip: text;
     color: transparent;
     animation-name: flake15;
-    animation-duration: 3s;
+    animation-duration: 2s;
     font-size: 15rem;
     position: absolute;
     animation-timing-function: ease-in;
@@ -189,7 +193,7 @@
     background-clip: text;
     color: transparent;
     animation-name: flake16;
-    animation-duration: 3s;
+    animation-duration: 2s;
     font-size: 15rem;
     position: absolute;
     animation-timing-function: ease-out;
@@ -201,7 +205,7 @@
     background-clip: text;
     color: transparent;
     animation-name: flake17;
-    animation-duration: 3s;
+    animation-duration: 2s;
     font-size: 15rem;
     position: absolute;
     animation-timing-function: ease-in;
@@ -213,7 +217,7 @@
     background-clip: text;
     color: transparent;
     animation-name: flake18;
-    animation-duration: 3s;
+    animation-duration: 2s;
     font-size: 15rem;
     position: absolute;
     animation-timing-function: ease-out;
@@ -225,7 +229,7 @@
     background-clip: text;
     color: transparent;
     animation-name: flake19;
-    animation-duration: 3s;
+    animation-duration: 2s;
     font-size: 15rem;
     position: absolute;
     animation-timing-function: ease-in;
@@ -237,7 +241,7 @@
     background-clip: text;
     color: transparent;
     animation-name: flake20;
-    animation-duration: 3s;
+    animation-duration: 2s;
     font-size: 15rem;
     position: absolute;
     animation-timing-function: ease-out;
@@ -249,7 +253,7 @@
     background-clip: text;
     color: transparent;
     animation-name: flake21;
-    animation-duration: 3s;
+    animation-duration: 2s;
     font-size: 15rem;
     position: absolute;
     animation-timing-function: ease-in;
