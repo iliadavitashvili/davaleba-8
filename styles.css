@@ -1,0 +1,671 @@
+.star1 {
+  background-clip: text;
+  color: transparent;
+  animation-name: flake1;
+  animation-duration: 3s;
+  font-size: 15rem;
+  position: absolute;
+  animation-timing-function: ease-in;
+  animation-iteration-count: infinite;
+   
+  animation-delay: .1s;
+
+}
+.star2 {
+    background-clip: text;
+    color: transparent;
+    animation-name: flake2;
+    animation-duration: 3s;
+    font-size: 15rem;
+    position: absolute;
+    animation-timing-function: ease-in;
+    animation-iteration-count: infinite;
+     
+    animation-delay: .2s;
+
+  }
+  .star3 {
+    background-clip: text;
+    color: transparent;
+    animation-name: flake3;
+    animation-duration: 3s;
+    font-size: 15rem;
+    position: absolute;
+    animation-timing-function: ease-in;
+    animation-iteration-count: infinite;
+     
+    animation-delay: .3s;
+
+  }
+  .star4 {
+    background-clip: text;
+    color: transparent;
+    animation-name: flake4;
+    animation-duration: 3s;
+    font-size: 15rem;
+    position: absolute;
+    animation-timing-function: ease-in;
+    animation-delay: .4s;
+    animation-iteration-count: infinite;
+     
+  }
+  .star5 {
+    background-clip: text;
+    color: transparent;
+    animation-name: flake5;
+    animation-duration: 3s;
+    font-size: 15rem;
+    position: absolute;
+    animation-timing-function: ease-in;
+    animation-delay: .5s;
+    animation-iteration-count: infinite;
+     
+  }
+  .star6 {
+    background-clip: text;
+    color: transparent;
+    animation-name: flake6;
+    animation-duration: 3s;
+    font-size: 15rem;
+    position: absolute;
+    animation-timing-function: ease-in;
+    animation-delay: .6s;
+    animation-iteration-count: infinite;
+     
+  }
+  .star7 {
+    background-clip: text;
+    color: transparent;
+    animation-name: flake7;
+    animation-duration: 3s;
+    font-size: 15rem;
+    position: absolute;
+    animation-timing-function: ease-in;
+    animation-delay: .7s;
+    animation-iteration-count: infinite;
+     
+  }
+  .star8 {
+    background-clip: text;
+    color: transparent;
+    animation-name: flake8;
+    animation-duration: 3s;
+    font-size: 15rem;
+    position: absolute;
+    animation-timing-function: ease-in;
+    animation-delay: .8s;
+    animation-iteration-count: infinite;
+     
+  }
+  .star9 {
+    background-clip: text;
+    color: transparent;
+    animation-name: flake9;
+    animation-duration: 3s;
+    font-size: 15rem;
+    position: absolute;
+    animation-timing-function: ease-in;
+    animation-iteration-count: infinite;
+     
+    animation-delay: .9s;
+
+  }
+  .star10 {
+    background-clip: text;
+    color: transparent;
+    animation-name: flake10;
+    animation-duration: 3s;
+    font-size: 15rem;
+    position: absolute;
+    animation-timing-function: ease-in;
+    animation-iteration-count: infinite;
+     
+     
+    animation-delay: 1s;
+
+
+  }
+  .star11 {
+    background-clip: text;
+    color: transparent;
+    animation-name: flake11;
+    animation-duration: 3s;
+    font-size: 15rem;
+    position: absolute;
+    animation-timing-function: ease-in;
+    animation-iteration-count: infinite;
+     
+    animation-delay: 1.1s;
+  }
+  .star12 {
+    background-clip: text;
+    color: transparent;
+    animation-name: flake12;
+    animation-duration: 3s;
+    font-size: 15rem;
+    position: absolute;
+    animation-timing-function: ease-in;
+    animation-iteration-count: infinite;
+     
+    animation-delay: 0.2s;
+  }
+  .star13 {
+    background-clip: text;
+    color: transparent;
+    animation-name: flake13;
+    animation-duration: 3s;
+    font-size: 15rem;
+    position: absolute;
+    animation-timing-function: ease-in;
+    animation-iteration-count: infinite;
+     
+    animation-delay: 0.8s;
+  }
+  .star14 {
+    background-clip: text;
+    color: transparent;
+    animation-name: flake14;
+    animation-duration: 3s;
+    font-size: 15rem;
+    position: absolute;
+    animation-timing-function: ease-in;
+    animation-iteration-count: infinite;
+     
+    animation-delay: 0.7s;
+  }
+  .star15 {
+    background-clip: text;
+    color: transparent;
+    animation-name: flake15;
+    animation-duration: 3s;
+    font-size: 15rem;
+    position: absolute;
+    animation-timing-function: ease-in;
+    animation-iteration-count: infinite;
+     
+    animation-delay: 0.2s;
+  }
+  .star16 {
+    background-clip: text;
+    color: transparent;
+    animation-name: flake16;
+    animation-duration: 3s;
+    font-size: 15rem;
+    position: absolute;
+    animation-timing-function: ease-in;
+    animation-iteration-count: infinite;
+     
+    animation-delay: .3s;
+  }
+  .star17 {
+    background-clip: text;
+    color: transparent;
+    animation-name: flake17;
+    animation-duration: 3s;
+    font-size: 15rem;
+    position: absolute;
+    animation-timing-function: ease-in;
+    animation-iteration-count: infinite;
+     
+    animation-delay: .1s;
+  }
+  .star18 {
+    background-clip: text;
+    color: transparent;
+    animation-name: flake18;
+    animation-duration: 3s;
+    font-size: 15rem;
+    position: absolute;
+    animation-timing-function: ease-in;
+    animation-iteration-count: infinite;
+     
+    animation-delay: .2s;
+  }
+  .star19 {
+    background-clip: text;
+    color: transparent;
+    animation-name: flake19;
+    animation-duration: 3s;
+    font-size: 15rem;
+    position: absolute;
+    animation-timing-function: ease-in;
+    animation-iteration-count: infinite;
+     
+    animation-delay: .5s;
+  }
+  .star20 {
+    background-clip: text;
+    color: transparent;
+    animation-name: flake20;
+    animation-duration: 3s;
+    font-size: 15rem;
+    position: absolute;
+    animation-timing-function: ease-in;
+    animation-iteration-count: infinite;
+     
+    animation-delay: 1s;
+  }
+  .star21 {
+    background-clip: text;
+    color: transparent;
+    animation-name: flake21;
+    animation-duration: 3s;
+    font-size: 15rem;
+    position: absolute;
+    animation-timing-function: ease-in;
+    animation-iteration-count: infinite;
+     
+    animation-delay: .3s;
+  }
+
+@keyframes flake1 {
+  0% {
+    background-color: snow;
+    text-shadow: 1px 1px 1px white;
+    transform: rotate(20deg);
+    top: -170px;
+  }
+  100% {
+    left: 5%;
+    
+    background-color: lightblue;
+    transform: rotate(360deg);
+    text-shadow: 2px 2px 2px lightsteelblue;
+    font-size: 0.1rem;
+    top: 100%;
+    
+  }
+}
+@keyframes flake2 {
+  0% {
+    background-color: snow;
+    text-shadow: 1px 1px 1px white;
+    transform: rotate(20deg);
+    top: -170px;
+    left:50px
+  }
+  100% {
+    left: 10%;
+    
+    color: lightblue;
+    transform: rotate(360deg);
+    text-shadow: 2px 2px 2px lightsteelblue;
+    font-size: 0.1rem;
+    top: 100%;
+    
+    
+  }
+}
+@keyframes flake3 {
+  0% {
+    background-color: snow;
+    text-shadow: 1px 1px 1px white;
+    transform: rotate(20deg);
+    top: -170px;
+    left:100px
+  }
+  100% {
+    left: 15%;
+    
+    color: lightblue;
+    transform: rotate(360deg);
+    text-shadow: 2px 2px 2px lightsteelblue;
+    font-size: 0.1rem;
+    top: 100%;
+    
+    
+  }
+}
+@keyframes flake4 {
+  0% {
+    background-color: snow;
+    text-shadow: 1px 1px 1px white;
+    transform: rotate(20deg);
+    top: -170px;
+    left:150px
+  }
+  100% {
+    left: 20%;
+    
+    color: lightblue;
+    transform: rotate(360deg);
+    text-shadow: 2px 2px 2px lightsteelblue;
+    font-size: 0.1rem;
+    top: 100%;
+    
+   
+  }
+}
+@keyframes flake5 {
+  0% {
+    background-color: snow;
+    text-shadow: 1px 1px 1px white;
+    transform: rotate(20deg);
+    top: -170px;
+    left:200
+  }
+  100% {
+    left: 25%;
+    
+    color: lightblue;
+    transform: rotate(360deg);
+    text-shadow: 2px 2px 2px lightsteelblue;
+    font-size: 0.1rem;
+    top: 100%;
+    
+    
+  }
+}
+@keyframes flake6 {
+  0% {
+    background-color: snow;
+    text-shadow: 1px 1px 1px white;
+    transform: rotate(20deg);
+    top: -170px;
+    left:300px
+  }
+  100% {
+    left: 30%;
+    
+    color: lightblue;
+    transform: rotate(360deg);
+    text-shadow: 2px 2px 2px lightsteelblue;
+    font-size: 0.1rem;
+    top: 100%;
+    
+    
+  }
+}
+@keyframes flake7 {
+  0% {
+    background-color: snow;
+    text-shadow: 1px 1px 1px white;
+    transform: rotate(20deg);
+    top: -170px;
+    left:400px
+  }
+  100% {
+    left: 35%;
+    
+    color: lightblue;
+    transform: rotate(360deg);
+    text-shadow: 2px 2px 2px lightsteelblue;
+    font-size: 0.1rem;
+    top: 100%;
+    
+
+  }
+}
+@keyframes flake8 {
+    0% {
+      background-color: snow;
+      text-shadow: 1px 1px 1px white;
+      transform: rotate(20deg);
+      top: -170px;
+      left:550px
+    }
+    100% {
+        left: 40%;
+        
+        color: lightblue;
+      transform: rotate(360deg);
+      text-shadow: 2px 2px 2px lightsteelblue;
+      font-size: 0.1rem;
+      top: 100%;
+      
+    
+    }
+  }
+@keyframes flake9 {
+  0% {
+    background-color: snow;
+    text-shadow: 1px 1px 1px white;
+    transform: rotate(20deg);
+    top: -170px;
+    left:500px
+  }
+  100% {
+    left: 90%;
+    
+    color: lightblue;
+    transform: rotate(360deg);
+    text-shadow: 2px 2px 2px lightsteelblue;
+    font-size: 0.1rem;
+    top: 100%;
+    
+  }
+}
+@keyframes flake10 {
+  0% {
+    background-color: snow;
+    text-shadow: 1px 1px 1px white;
+    transform: rotate(20deg);
+    top: -170px;
+    left:800px
+  }
+  100% {
+    left: 300%;
+    
+    color: lightblue;
+    transform: rotate(360deg);
+    text-shadow: 2px 2px 2px lightsteelblue;
+    font-size: 0.1rem;
+    top: 100%;
+    
+  }
+}
+@keyframes flake11 {
+  0% {
+    background-color: snow;
+    text-shadow: 1px 1px 1px white;
+    transform: rotate(20deg);
+    top: -170px;
+    left:900px
+  }
+  100% {
+    left: 205%;
+    
+    color: lightblue;
+    transform: rotate(360deg);
+    text-shadow: 2px 2px 2px lightsteelblue;
+    font-size: 0.1rem;
+    top: 100%;
+    
+  }
+}
+@keyframes flake12 {
+    0% {
+      background-color: snow;
+      text-shadow: 1px 1px 1px white;
+      transform: rotate(20deg);
+      top: -170px;
+      left:50%
+    }
+    100% {
+        left: 1000%;
+      
+      color: lightblue;
+      transform: rotate(360deg);
+      text-shadow: 2px 2px 2px lightsteelblue;
+      font-size: 0.5rem;
+      top: 100%;
+      
+    }
+  }
+  @keyframes flake13 {
+    0% {
+      background-color: snow;
+      text-shadow: 1px 1px 1px white;
+      transform: rotate(20deg);
+      top: -170px;
+      left:60%
+    }
+    100% {
+        left: 65%;
+      
+      color: lightblue;
+      transform: rotate(360deg);
+      text-shadow: 2px 2px 2px lightsteelblue;
+      font-size: 0.1rem;
+      top: 100%;
+      
+    }
+  }
+  @keyframes flake14 {
+    0% {
+      background-color: snow;
+      text-shadow: 1px 1px 1px white;
+      transform: rotate(20deg);
+      top: -170px;
+      left:100px
+    }
+    100% {
+        left: 70%;
+      
+      color: lightblue;
+      transform: rotate(360deg);
+      text-shadow: 2px 2px 2px lightsteelblue;
+      font-size: 0.1rem;
+      top: 1800px;
+     
+    }
+  }
+  @keyframes flake15 {
+    0% {
+      background-color: snow;
+      text-shadow: 1px 1px 1px white;
+      transform: rotate(20deg);
+      top: -170px;
+      left:900px
+    }
+    100% {
+        left: 75%;
+      
+      color: lightblue;
+      transform: rotate(360deg);
+      text-shadow: 2px 2px 2px lightsteelblue;
+      font-size: 0.1rem;
+      top: 1250px;
+   
+      
+    }
+  }
+  @keyframes flake16 {
+    0% {
+      background-color: snow;
+      text-shadow: 1px 1px 1px white;
+      transform: rotate(20deg);
+      top: -170px;
+      left:420px
+    }
+    100% {
+        left: 80%;
+      
+      color: lightblue;
+      transform: rotate(360deg);
+      text-shadow: 2px 2px 2px lightsteelblue;
+      font-size: 0.1rem;
+      top: 2200px;
+    
+    }
+  }
+  @keyframes flake17 {
+    0% {
+      background-color: snow;
+      text-shadow: 1px 1px 1px white;
+      transform: rotate(20deg);
+      top: -170px;
+      left:300px
+    }
+    100% {
+        left: 85%;
+      
+      color: lightblue;
+      transform: rotate(360deg);
+      text-shadow: 2px 2px 2px lightsteelblue;
+      font-size: 0.1rem;
+      top: 100%;
+      
+
+    }
+  }
+  @keyframes flake18 {
+    0% {
+      background-color: snow;
+      text-shadow: 1px 1px 1px white;
+      transform: rotate(20deg);
+      top: -170px;
+      left:900px
+    }
+    100% {
+        left: 90%;
+      
+      color: lightblue;
+      transform: rotate(360deg);
+      text-shadow: 2px 2px 2px lightsteelblue;
+      font-size: 0.1rem;
+      top: 100%;
+      
+
+    }
+  }
+  @keyframes flake19 {
+    0% {
+      background-color: snow;
+      text-shadow: 1px 1px 1px white;
+      transform: rotate(20deg);
+      top: -170px;
+      left:900px
+    }
+    100% {
+        left: 95%;
+      
+      color: lightblue;
+      transform: rotate(360deg);
+      text-shadow: 2px 2px 2px lightsteelblue;
+      font-size: 0.1rem;
+      top: 100%;
+      
+  
+    }
+  }
+  @keyframes flake20 {
+    0% {
+      background-color: snow;
+      text-shadow: 1px 1px 1px white;
+      transform: rotate(20deg);
+      top: -170px;
+      left:660px
+    }
+    100% {
+        left: 100%;
+      
+      color: lightblue;
+      transform: rotate(360deg);
+      text-shadow: 2px 2px 2px lightsteelblue;
+      font-size: 0.1rem;
+      top: 100%;
+      
+ 
+    }
+  }
+  @keyframes flake21 {
+    0% {
+      background-color: snow;
+      text-shadow: 1px 1px 1px white;
+      transform: rotate(20deg);
+      top: -170px;
+      left:650px
+    }
+    100% {
+        left: 52%;
+      
+      color: lightblue;
+      transform: rotate(360deg);
+      text-shadow: 2px 2px 2px lightsteelblue;
+      font-size: 0.1rem;
+      top: 100%;
+      
+    
+    }
+  }
